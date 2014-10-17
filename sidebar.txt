@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tao:home|Door43 (tao)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tao|d43-tao repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tao/archive/master.zip|d43-tao.zip]]
+
+**Recent Changes**
+{{changes>ns = tao}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tao|Ethnologue data]]
+
